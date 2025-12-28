@@ -8,19 +8,19 @@ This application allows users to shorten long URLs, create custom aliases, gener
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-*   **🔒 Secure Authentication**: User registration and login using JWT (JSON Web Tokens) and bcrypt for password hashing.
-*   **✂️ URL Shortening**: Instantly convert long, messy URLs into short, shareable links.
-*   **🏷️ Custom Aliases**: Logged-in users can create custom vanity URLs (e.g., `mysite.com/memes`).
-*   **📱 QR Code Generation**: Automatically generates a downloadable QR code for every shortened link.
-*   **📊 Dashboard & Analytics**: View a history of all your links and track total clicks.
-*   **🛡️ Security**: Includes HTTP-only cookies, global error handling, and sensitive data protection.
-*   **📱 Responsive Patterns**: Built with React and Tailwind CSS for a modern, mobile-friendly interface.
+*   ** Secure Authentication**: User registration and login using JWT (JSON Web Tokens) and bcrypt for password hashing.
+*   ** URL Shortening**: Instantly convert long, messy URLs into short, shareable links.
+*   ** Custom Aliases**: Logged-in users can create custom vanity URLs (e.g., `mysite.com/memes`).
+*   ** QR Code Generation**: Automatically generates a downloadable QR code for every shortened link.
+*   ** Dashboard & Analytics**: View a history of all your links and track total clicks.
+*   ** Security**: Includes HTTP-only cookies, global error handling, and sensitive data protection.
+*   ** Responsive Patterns**: Built with React and Tailwind CSS for a modern, mobile-friendly interface.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 *   **Frontend**: React.js, Vite, Tailwind CSS, Redux Toolkit, React Query.
 *   **Backend**: Node.js, Express.js.
@@ -29,7 +29,7 @@ This application allows users to shorten long URLs, create custom aliases, gener
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 Follow these steps to run the project locally.
 
@@ -77,7 +77,7 @@ Open your browser and visit: `http://localhost:5173`
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 ├── BACKEND/          # Node.js & Express Server
@@ -100,12 +100,12 @@ Open your browser and visit: `http://localhost:5173`
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-## 📝 License
+##  License
 
 This project is open source and available under the [MIT License](LICENSE).

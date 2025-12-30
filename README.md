@@ -10,13 +10,13 @@ This application allows users to shorten long URLs, create custom aliases, gener
 
 ##  Key Features
 
-*   ** Secure Authentication**: User registration and login using JWT (JSON Web Tokens) and bcrypt for password hashing.
-*   ** URL Shortening**: Instantly convert long, messy URLs into short, shareable links.
-*   ** Custom Aliases**: Logged-in users can create custom vanity URLs (e.g., `mysite.com/memes`).
-*   ** QR Code Generation**: Automatically generates a downloadable QR code for every shortened link.
-*   ** Dashboard & Analytics**: View a history of all your links and track total clicks.
-*   ** Security**: Includes HTTP-only cookies, global error handling, and sensitive data protection.
-*   ** Responsive Patterns**: Built with React and Tailwind CSS for a modern, mobile-friendly interface.
+*   **Secure Authentication**: User registration and login using JWT (JSON Web Tokens) and bcrypt for password hashing.
+*   **URL Shortening**: Instantly convert long, messy URLs into short, shareable links.
+*   **Custom Aliases**: Logged-in users can create custom vanity URLs (e.g., `mysite.com/memes`).
+*   **QR Code Generation**: Automatically generates a downloadable QR code for every shortened link.
+*   **Dashboard & Analytics**: View a history of all your links and track total clicks.
+*   **Security**: Includes HTTP-only cookies, global error handling, and sensitive data protection.
+*   **Responsive Patterns**: Built with React and Tailwind CSS for a modern, mobile-friendly interface.
 
 ---
 
